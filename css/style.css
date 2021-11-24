@@ -17,6 +17,10 @@
     width: 100%;
 }
 
+.card h1, .card p {
+    line-height: 2;
+}
+
 .title {
     color: grey;
     font-size: 18px;
